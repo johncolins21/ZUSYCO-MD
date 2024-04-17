@@ -17,7 +17,7 @@ Creator : @darkmakerofc , @mr-nima-x
 
 module.exports = {
   OWNER_NUMBER: "254111780041",
-  SUDO_NUMBERS : "94715166712,",
+  SUDO_NUMBERS : "254746952667,",
   OWNER_NAME: "『 johncolins 』",
   BOT_NAME : "John Ai",
   ZUSYCO_FILE : "ZUSYCO-QR",
